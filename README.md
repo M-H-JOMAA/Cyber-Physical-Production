@@ -15,6 +15,6 @@ Watch the video demonstration here: https://github.com/M-H-JOMAA/Cyber-Physical-
 
 ## 🧠 Technologies Used
 - Lau coding (parametric design)
-- [Optional] OpenSCAD / Fusion 360 / Python (mention tools if relevant)
-- GitHub Pages (for project presentation)
+- C#
+
 
