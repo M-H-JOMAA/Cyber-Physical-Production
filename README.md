@@ -19,3 +19,9 @@ Watch the video demonstration here: https://github.com/M-H-JOMAA/Cyber-Physical-
 - IceSL
 - AM
 
+## 📈 Applications
+This parametric design approach is ideal for:
+
+- Rapid prototyping in AM
+- Gear customization for robotics
+- Educational demonstrations
